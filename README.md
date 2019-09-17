@@ -13,4 +13,4 @@
 
 ## Instalação Raspberry PI 3
 
-* **sh file** [sh file](http://popmuzserver.cloudapp.net/player/install-rapsberry.sh)
+* **Script de instalação** [instalador](http://popmuzserver.cloudapp.net/player/install-rapsberry.sh)
