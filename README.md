@@ -11,3 +11,6 @@
 
 * **Problema naudio** [zip windows](http://popmuzserver.cloudapp.net/player/2id-player-naudioteste.zip)
 
+## Instalação Raspberry PI 3
+
+* **sh file** [sh file](http://popmuzserver.cloudapp.net/player/install-rapsberry.sh)
