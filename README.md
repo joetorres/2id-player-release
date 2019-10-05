@@ -9,7 +9,7 @@
 
 ## Versões de teste
 
-* **Opções menu** [zip windows](http://popmuzserver.cloudapp.net/player/2idplayer.novo-menu.win.x86.zip)
+* **Like, Dislike, Next** [zip windows](http://popmuzserver.cloudapp.net/player/2idplayer.novo-menu.win.x86.zip)
 
 ## Instalação Raspberry PI 3
 
