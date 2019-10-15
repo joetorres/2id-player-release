@@ -11,3 +11,6 @@
 ## Instalação Raspberry PI 3  
 
 * **Script de instalação** [instalador](http://popmuzserver.cloudapp.net/player/install-rapsberry.sh)
+
+## Versões de teste
+* **Teste de musica randomica** [zip windows](http://popmuzserver.cloudapp.net/player/player2id.teste-random.zip)
